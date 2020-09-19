@@ -1,0 +1,8 @@
+<p>The dataset provided is a table ('ab_data.csv' file) which has results of this experiment. There are five columns (fields):</p>
+<br>
+- user_id: id of the user.<br>
+- timestamp: time of signing in.<br>
+- group: group of which user belongs<br>
+- landing_page: page which user is directed to.<br>
+- converted: whether ot not the user converted.<br>
+
