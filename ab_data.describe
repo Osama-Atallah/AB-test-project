@@ -1,3 +1,5 @@
+<p>An experiment was run by the company on two groups of users, control and treatment. Control group was directed to the old page when they sign-in. Treatment group was directed to the new page when they sign-in.</p>
+
 <p>The dataset provided is a table ('ab_data.csv' file) which has results of this experiment. There are five columns (fields):</p>
 <br>
 - user_id: id of the user.<br>
